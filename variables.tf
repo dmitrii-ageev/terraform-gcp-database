@@ -19,7 +19,7 @@ variable "instance_version" {
 }
 
 variable "instance_availability_type" {
-  description = "The instance availablity type"
+  description = "The instance availability type"
   default     = "REGIONAL"
 }
 
