@@ -47,7 +47,7 @@ If you're getting an error "Resource '<some resource>' not found for variable '<
 make sure a network ID you pass to the module, matches the regular expression: 
 `match regexp "projects/((?:(?:[-a-z0-9]{1,63}\\.)*(?:[a-z](?:[-a-z0-9]{0,61}[a-z0-9])?):)?(?:[0-9]{1,19}|(?:[a-z0-9](?:[-a-z0-9]{0,61}[a-z0-9])?)))/global/networks/((?:[a-z](?:[-a-z0-9]*[a-z0-9])?))$"`.
 
-Authors
-=======
+Author
+======
 
 Dmitrii Ageev <dmitrii.ageev@unimarket.com>
