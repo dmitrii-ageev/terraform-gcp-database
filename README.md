@@ -26,7 +26,7 @@ module "database" {
   source = "git::git@github.com:dmitrii-ageev/terraform-database?ref=0.1.0"
 
   instance_name = "postgresql"
-  network = "${data.google_compute_network.my_network.name}"
+  network = "${data.google_compute_network.self_link}"
 }
 ```
 
