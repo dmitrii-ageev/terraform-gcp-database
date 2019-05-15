@@ -23,7 +23,7 @@ Usage
 
 ```hcl
 module "database" {
-  source = "git::git@github.com:dmitrii-ageev/terraform-database?ref=0.1.0"
+  source = "git::git@github.com:dmitrii-ageev/terraform-database.git?ref=0.1.1"
 
   instance_name = "postgresql"
   network = "${data.google_compute_network.my_network.name}"
