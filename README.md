@@ -1,4 +1,4 @@
-DATABASE TERRAFORM MODULE
+TERRAFORM DATABASE MODULE
 =========================
 
 A terraform module to create a new Google SQL database and/or an database instance.
