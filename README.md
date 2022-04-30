@@ -50,4 +50,4 @@ make sure a network ID you pass to the module, matches the regular expression:
 Author
 ======
 
-Dmitrii Ageev <dmitrii.ageev@unimarket.com>
+Dmitrii Ageev <dmitrii@opsworks.ru>
